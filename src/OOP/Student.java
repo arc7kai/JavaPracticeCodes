@@ -79,6 +79,6 @@ public class Student {
         System.out.println();
 
         System.out.println(s3);
-        System.out.println("Result: " + s3.getResult());
+        System.out.println("Result: " + s3.getResult()); //this
     }
 }
