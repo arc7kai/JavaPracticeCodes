@@ -1,6 +1,3 @@
-Here’s your complete, professional study notes for the `BookInfo` program — fully aligned with your format and enhanced with UML + flowchart visuals for revision.
-
----
 
 # 📘 Study Notes on `BookInfo` Class Program
 
