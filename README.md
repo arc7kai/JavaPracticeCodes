@@ -146,15 +146,6 @@ This helps turn transient knowledge into repeatable lessons.
 - Add badges and a top-level examples index
 
 ## License & contact
-Add a LICENSE file (MIT is a good default for learning repos).
-
-Author: arc7kai — GitHub: [arc7kai](https://github.com/arc7kai)
+Author: Shashi Partap — GitHub: [arc7kai](https://github.com/arc7kai)
 
 ---
-
-Thanks for creating this learning repository — a clear README makes it much easier for you and others to navigate, run, and build on your examples. If you want, I can:
-- Commit this README to the repo,
-- Add a LICENSE (MIT) file,
-- Create a CONTRIBUTING.md,
-- Or generate a simple GitHub Actions workflow to run tests automatically.
-Tell me which you'd like next and I’ll prepare it.
